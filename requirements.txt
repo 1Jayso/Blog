@@ -21,7 +21,7 @@ openpyxl==3.0.4
 Pillow==9.0.1
 python3-wget==0.0.2b1
 pytz==2020.1
-PyYAML==5.3.1
+PyYAML==5.4
 requests==2.23.0
 soupsieve==2.0
 sqlparse==0.3.1
