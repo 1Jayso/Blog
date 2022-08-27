@@ -1,6 +1,6 @@
 # Project Title
 
-A blogging application using Django --> This project is for anyone who is just getting started with REST API
+A blogging application using Django -->  This project when deployed will allow users share the bloggin experience.
 
 ## Getting Started
 
