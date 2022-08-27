@@ -1,6 +1,6 @@
 # Project Title
 
-A blogging application using Django -->  This project when deployed will allow users share the bloggin experience.
+A blogging application using Django -->  This project when deployed will allow users share their blogging experience.
 
 ## Getting Started
 
