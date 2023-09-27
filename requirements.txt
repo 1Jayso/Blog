@@ -18,7 +18,7 @@ lxml==4.9.1
 MarkupPy==1.14
 odfpy==1.4.1
 openpyxl==3.0.4
-Pillow==9.0.1
+Pillow==10.0.1
 python3-wget==0.0.2b1
 pytz==2020.1
 PyYAML==5.4
