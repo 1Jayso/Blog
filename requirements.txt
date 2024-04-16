@@ -24,7 +24,7 @@ pytz==2020.1
 PyYAML==5.4
 requests==2.23.0
 soupsieve==2.0
-sqlparse==0.3.1
+sqlparse==0.5.0
 tablib==2.0.0
 urllib3==1.26.5
 whitenoise==5.0.1
